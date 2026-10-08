@@ -1,16 +1,17 @@
-## Hi there 👋
+# Senior Python / AI Architect
 
-<!--
-**neuspeed/neuspeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Executive backend developer with expertise in designing high-load asynchronous systems, On-Premise AI infrastructure, and secure enterprise solutions.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Expertise
+* **Backend & Async:** Python 3.12, FastAPI, Asyncio, Pydantic v2, SQLAlchemy 2.0
+* **AI & RAG:** LangChain, LlamaIndex, Ollama (Qwen/Llama), Local OCR, Vector DBs
+* **Event-Driven:** RabbitMQ, FastStream, Redis, Transactional Outbox Pattern
+* **DevOps & Infrastructure:** Docker, Docker Compose, Linux (Ubuntu), On-Premise deployments (152-FZ compliance)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Projects on Display
+* **[payme-one-more-time](https://github.com)** — Production-ready payment processing microservice featuring Transactional Outbox, FastStream/RabbitMQ, and strict idempotency handling.
+* **Enterprise RAG Engine** — Custom knowledge-base processor with Streamlit UI layer and locally hosted LLMs via Ollama.
+* **Async Collaboration Platform** — Real-time interactive canvas with asynchronous streaming and parallel PDF processing.
+
+---
+📫 Contact for freelance contracts & architecture consulting: Telegram @neuspeed / email neuspeed@inbox.ru
