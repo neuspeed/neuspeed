@@ -10,7 +10,7 @@ Executive backend developer with expertise in designing high-load asynchronous s
 
 ## 🚀 Key Projects on Display
 * **[payme-one-more-time](https://github.com/neuspeed/payme-one-more-time)** — Production-ready payment processing microservice featuring Transactional Outbox, FastStream/RabbitMQ, and strict idempotency handling.
-* **[Enterprise RAG Engine](https://github.com/neuspeed/enterprise-rag-engine)** — Custom knowledge-base processor with Streamlit UI layer and locally hosted LLMs via Ollama.
+* **[Enterprise RAG Engine](https://github.com/neuspeed/enterprise-rag-streamlit)** — Custom knowledge-base processor with Streamlit UI layer and locally hosted LLMs via Ollama.
 * **Async Collaboration Platform** — Real-time interactive canvas with asynchronous streaming and parallel PDF processing.
 
 ---
